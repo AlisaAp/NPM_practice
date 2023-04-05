@@ -1,0 +1,31 @@
+{
+  "name": "npm_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlisaAp/NPM_practice.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Alisa Apotovska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlisaAp/NPM_practice/issues"
+  },
+  "homepage": "https://github.com/AlisaAp/NPM_practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "prettier": "2.8.7"
+  }
+}
